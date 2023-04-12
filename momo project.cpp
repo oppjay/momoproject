@@ -10,7 +10,7 @@ int main(int argc, char** argv) {
 	double amount;
 	
 	// main menu
-	cout<<"Welcome to Ernest Jouney mobile money"<<endl;
+	cout<<"Welcome to oppong isaac mobile money"<<endl;
 	cout<<"1.send money"<<endl;
 	cout<<"2.check balance"<<endl;
 	cout<<"3.change & reset pin"<<endl;
